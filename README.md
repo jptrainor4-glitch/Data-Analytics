@@ -11,14 +11,15 @@ Conclusion:
 
 Top 5 results:
 
-Sensor ID | Lat \ Long              |  Top-10s  |  200m Radius, no outliers gap score
+Sensor ID | Lat \ Long             | Top-10s  |  200m Radius, no outliers gap score
+--------------------------------------------------------------
 
-25        	-37.824018	144.956044	   4	         0.655102,
-24        	-37.818880	144.954492	   4	         0.416327,
-133        	-37.815314	144.952278	   4	         0.344898,
-5	          -37.818742	144.967877	   2           0.520408,
-41	        -37.816686	144.966897	   2	         0.500000
-
+25  |      	-37.824018	144.956044	|   4	  |       0.655102,
+24  |      	-37.818880	144.954492	|   4	  |       0.416327,
+133 |       -37.815314	144.952278	|   4	  |       0.344898,
+5	  |       -37.818742	144.967877	|   2   |        0.520408,
+41	|       -37.816686	144.966897	|   2	  |       0.500000
+---------------------------------------------------------------
 
 How to read the gap score: each sensor gets a demand rank (how busy it is compared with the others) and a supply rank (how many bar seats are nearby compared with the others). Both ranks run from 0 to 1. The gap score is demand minus supply, so +1 means busiest with the least competition and −1 means quiet with a lot of seats.
 
