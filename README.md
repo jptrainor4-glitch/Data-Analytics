@@ -1,3 +1,13 @@
+Where should a new bar go in Melbourne's CBD?
+Question: Which parts of the Melbourne CBD have strong evening foot traffic but relatively few bar and pub seats, making them good spots for a new venue?
+
+Short answer: Three sensor locations ranked in the top 10 under all four versions of the gap score: one near the Crown complex and two near Southern Cross Station. A sensor near Flinders St Station, by the river, came next. All of them are high-traffic areas with few seats nearby. Two caveats come with that: most of this traffic is probably commuters, and the Crown site has little built around it (see Limitations).
+
+Gap score map Sensors coloured by gap score (blue = busy and under-served, red = over-supplied). Ringed sensors are in the top 10 under all four supply versions. Grey dots are bars and pubs (2024).
+
+gap_map.png
+
+
 Conclusion:
 
 Top 5 results:
