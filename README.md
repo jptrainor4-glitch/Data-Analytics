@@ -5,8 +5,7 @@ Short answer: Three sensor locations ranked in the top 10 under all four version
 
 Gap score map Sensors coloured by gap score (blue = busy and under-served, red = over-supplied). Ringed sensors are in the top 10 under all four supply versions. Grey dots are bars and pubs (2024).
 
-gap_map(1).png
-
+![Gap score map](gap_map.png)
 
 Conclusion:
 
